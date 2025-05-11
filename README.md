@@ -10,13 +10,6 @@ Portfolio website and projects by Terry Boateng | Full-stack developer
 
 ---
 
-### 🎓 Opleiding
-- **AP Hogeschool** - *IT Programmeren* (2020 - Heden)
-- **CADIX** - *Multimedia* (2018 - 2020)
-- **H. Pius X-instituut** - *Economie-Talen / Wiskunde* (2014 - 2018)
-
----
-
 ### 💼 Vaardigheden
 - **Talen & Frameworks**: JavaScript, TypeScript, .NET Core, React, React Native
 - **Webontwikkeling**: HTML5, CSS3, Next.js
